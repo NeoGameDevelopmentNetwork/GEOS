@@ -1,4 +1,4 @@
-# Area6510
+# README
 
 # geoWiC64ntp
 Released: 2022/03/26 20:00

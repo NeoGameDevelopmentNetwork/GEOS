@@ -1,4 +1,4 @@
-# Area6510
+# README
 
 ### GEOS 2.0
 This directory includes the GEOS 2/german source code and also some code for additional applications like configure.

@@ -1,4 +1,4 @@
-# Area6510
+# README
 
 ### geoConvert 4.x
 This is an improved version of the deprecated 'geoConvert 98f'. This utility can convert files from GEOS to CBM, CBM to GEOS, SEQ to UUE and UUE to SEQ. UUE was a helpful file format in the beginnings of the internet to send files using eMail. UUE is mostly deprected but is still included since it may still work.

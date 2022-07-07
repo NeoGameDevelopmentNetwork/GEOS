@@ -1,4 +1,4 @@
-# Area6510
+# README
 
 ### GEOS64-FBOOT
 GEOS64-FBOOT, or "FBOOT" for short, is a program to boot GEOS or GEOS/MP3 a little faster.

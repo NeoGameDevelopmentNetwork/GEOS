@@ -1,4 +1,4 @@
-# Area6510
+# README
 
 ### GEODESK64
 GeoDesk is a new DeskTop for GEOS/MegaPatch64, GEOS/MegaPatch128 is not supported.

@@ -1,4 +1,4 @@
-# Area6510
+# README
 
 # GEOS MEGAPATCH 64/128 [GERMAN]
 For english translation please scroll down...

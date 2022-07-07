@@ -1,4 +1,4 @@
-# Area6510
+# README
 
 ### GDOS64
 GDOS64 is based on GeoDOS64-V3 and was planned as an update for GEOS MegaPatch that was started in 1999 but was never finished.

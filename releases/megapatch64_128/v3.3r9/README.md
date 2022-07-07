@@ -1,4 +1,4 @@
-# Area6510
+# README
 
 ## GEOS MEGAPATCH 64/128
 This directory contains the latest stable release of GEOS MegaPatch.

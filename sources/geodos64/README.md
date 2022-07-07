@@ -1,4 +1,4 @@
-# Area6510
+# README
 
 ### GEODOS64
 GeoDOS is a tool for the GEOS Graphical Desktop Environment:
