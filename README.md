@@ -1,4 +1,4 @@
-# NGDN - GEOS
+# NGDN
 
 ### Releases
 This directory includes various disk images including stable applications for the C64 and/or GEOS 64. For some of the applications you may find the source code in the source directory.
